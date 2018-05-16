@@ -1,6 +1,6 @@
 class Project
 
-  # attr_accessor :title, :backers, :back_project
+  attr_accessor :title, :backers, :back_project
 
   def initialize(title)
     @title = title
